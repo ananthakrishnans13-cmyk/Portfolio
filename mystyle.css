@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkgrey;
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+header{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+div{
+    color: black;
+    align-items: center;
+    background-color:beige;
+    
+    
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: start;
+}
+#para1{
+    color: rgb(243, 232, 232);
+}
+#para2{
+    color: green;
+}
+.circle-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: white;
+}
